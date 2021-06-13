@@ -1,2 +1,2 @@
 # UberGNN
-UberGNN
+UberGNN model
