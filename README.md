@@ -1,2 +1,2 @@
 # UberGNN
-UberGNN model
+UberGNN model on CIKM 2019 workshop
